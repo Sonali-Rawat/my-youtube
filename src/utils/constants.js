@@ -4,3 +4,7 @@ export const YOUTUBE_VIDEOS_API= " https://youtube.googleapis.com/youtube/v3/vid
 ;
 
 // Project ID: my-youtube-431209
+
+
+export const YOUTUBE_SEARCH_API =
+ " http://suggestqueries.google.com/complete/search?client=youtube&ds=yt&client=firefox&q=";
